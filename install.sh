@@ -4,7 +4,7 @@
 
 set -e
 
-REPO="https://github.com/YOUR_ORG/macro-report-toolkit"
+REPO="https://github.com/Elise31/macro-report-toolkit"
 SKILLS_DIR="${HOME}/.claude/skills"
 TOOLKIT_DIR="${SKILLS_DIR}/macro-report-toolkit"
 

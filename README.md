@@ -9,7 +9,7 @@ Claude Code skills + MCP tools for automated macro economic reporting.
 ## Install (one command)
 
 ```bash
-curl -s https://raw.githubusercontent.com/YOUR_ORG/macro-report-toolkit/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/Elise31/macro-report-toolkit/main/install.sh | bash
 ```
 
 Then set your FRED API key (free at [fred.stlouisfed.org](https://fred.stlouisfed.org/docs/api/api_key.html)):
